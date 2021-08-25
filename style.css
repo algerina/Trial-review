@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Roboto&display=swap");
+
+h1 {
+  color: bisque;
+  font-family: "Courier New", Courier, monospace;
+}
+
+p {
+  color: bisque;
+  font-family: "Courier New", Courier, monospace;
+}
+
+a {
+  color: blue;
+  font-size: 20px;
+}
+
+body {
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+  background-color: rgb(14, 13, 13);
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
+
+#img-div {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+a :hover {
+  color: blanchedalmond;
+  text-decoration: underline;
+}
